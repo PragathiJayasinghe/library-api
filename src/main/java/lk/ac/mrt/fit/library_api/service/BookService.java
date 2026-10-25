@@ -1,8 +1,9 @@
-package com.example.library_api.service;   
+package lk.ac.mrt.fit.library_api.service;   
 
-import java.util.List; import java.util.Optional;   
-import com.example.library_api.model.Book; 
-import com.example.library_api.repository.BookRepository; 
+import java.util.List; 
+import java.util.Optional;   
+import lk.ac.mrt.fit.library_api.model.Book; 
+import lk.ac.mrt.fit.library_api.repository.BookRepository; 
 import org.springframework.stereotype.Service;   
 
 @Service 

@@ -1,4 +1,4 @@
-package com.example.library_api;
+package lk.ac.mrt.fit.library_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

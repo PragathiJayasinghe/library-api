@@ -1,4 +1,4 @@
-package com.example.library_api.model;  
+package lk.ac.mrt.fit.library_api.model;  
 
 import jakarta.persistence.Entity; 
 import jakarta.persistence.GeneratedValue; 

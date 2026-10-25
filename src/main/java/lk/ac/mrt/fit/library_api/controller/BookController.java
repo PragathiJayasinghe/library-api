@@ -1,10 +1,10 @@
-package com.example.library_api.controller;
+package lk.ac.mrt.fit.library_api.controller;
 
 import java.util.List;
 
 import jakarta.validation.Valid; 
-import com.example.library_api.model.Book; 
-import com.example.library_api.service.BookService; 
+import lk.ac.mrt.fit.library_api.model.Book; 
+import lk.ac.mrt.fit.library_api.service.BookService; 
 import org.springframework.http.HttpStatus; 
 import org.springframework.http.ResponseEntity; 
 import org.springframework.web.bind.annotation.*;
